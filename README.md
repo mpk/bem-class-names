@@ -4,7 +4,7 @@ Modification of [classNames](https://github.com/JedWatson/classnames) utility to
 
 ## Install
 
-	npm install mpk/bem-class-names
+	npm install mpk/bem-class-names#121f525
 
 ## Usage
 
